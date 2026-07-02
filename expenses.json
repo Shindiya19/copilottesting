@@ -22,5 +22,11 @@
     "category": "PETROL",
     "amount": 2000.0,
     "note": ""
+  },
+  {
+    "date": "2026-07-02",
+    "category": "movie",
+    "amount": 0.0,
+    "note": ""
   }
 ]
