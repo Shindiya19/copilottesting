@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-07-02",
+    "category": "internet bill",
+    "amount": 710.0,
+    "note": ""
+  },
+  {
+    "date": "2026-07-02",
+    "category": "rent",
+    "amount": 2750.0,
+    "note": "pg rent"
+  },
+  {
+    "date": "2026-07-02",
+    "category": "movie",
+    "amount": 1000.0,
+    "note": ""
+  },
+  {
+    "date": "2026-07-02",
+    "category": "PETROL",
+    "amount": 2000.0,
+    "note": ""
+  }
+]
